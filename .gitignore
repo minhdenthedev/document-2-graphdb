@@ -1,0 +1,11 @@
+.idea/
+
+data_json/
+outputs/
+parsed_outputs/
+
+src/document2graph/relation_extracting/dreeam/data/
+
+__pycache__/
+*.pyc
+*.pyo
